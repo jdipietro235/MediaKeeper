@@ -1,2 +1,2 @@
 # MediaKeeper
- An Android app for tracking what media you've already finished, and what you want to start on.
+ An Android app for tracking movies, shows, and books you've started or want to start
